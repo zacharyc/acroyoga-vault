@@ -1,1 +1,8 @@
-{}
+{
+  "interfaceFontFamily": "MonoLisa Variable,Menlo,Courier New",
+  "textFontFamily": "MonoLisa Variable,MonoLisa,Menlo,Courier New",
+  "monospaceFontFamily": "MonoLisa Variable,MonoLisa,Menlo,Fira Mono for Powerline,Courier New",
+  "baseFontSizeAction": true,
+  "cssTheme": "Vauxhall",
+  "theme": "obsidian"
+}
