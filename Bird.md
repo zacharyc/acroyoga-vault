@@ -1,1 +1,0 @@
-Bird is one of the most basic poses.
