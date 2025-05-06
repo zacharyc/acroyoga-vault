@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Front Plank"
             }
+          },
+          {
+            "id": "a5056a051f285b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hand Grips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hand Grips"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poses/Front Plank.md",
+                "file": "Hand Grips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Front Plank"
+              "title": "Backlinks for Hand Grips"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poses/Front Plank.md",
+                "file": "Hand Grips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Front Plank"
+              "title": "Outgoing links from Hand Grips"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poses/Front Plank.md",
+                "file": "Hand Grips.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Front Plank"
+              "title": "Outline of Hand Grips"
             }
           }
         ]
@@ -198,8 +212,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ffccc2a124378653",
+  "active": "a5056a051f285b6a",
   "lastOpenFiles": [
+    "Hand Grips.md",
     "Poses/Front Plank.md",
     "Poses/Bird.md",
     "Poses/Chair.md",
